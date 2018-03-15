@@ -1,0 +1,3 @@
+# Learning Journal Week 9
+
+This week we've been wrapping up on content in general and focusing on things like OAuth, stress testing, and a little more on data structures. Overall the concepts seem easy to grasp, OAuth seems pretty straight forward and stress testing seems a lot easier than I thought it would be. I would say the biggest thing I've learned this week is to catch up sooner because boy do I have a lot to do still.
